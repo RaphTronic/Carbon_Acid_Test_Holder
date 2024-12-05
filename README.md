@@ -4,6 +4,8 @@ Any acid residue will oxidize and eat away the steel parts in a 3D printer. So s
 
 More details in this post: https://raphtronic.blogspot.com/2024/03/diy-test-acid-free-activated-carbon-for.html
 
+Feel free to copy / remix / whatever.
+
 Happy 3D printing to all !
 
 ![Carbon Test Fan Holder A3](https://github.com/RaphTronic/Carbon_Acid_Test_Holder/assets/35200718/d25be4d4-a5e6-4fc1-9d07-6acd44260e77)
